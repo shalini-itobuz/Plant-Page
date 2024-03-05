@@ -78,10 +78,9 @@
 .carousel-container {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
   align-items: center;
   overflow: hidden;
-  width: 100%;
+  justify-content: center;
 }
 
 .carousel-images {
